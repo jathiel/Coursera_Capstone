@@ -10,3 +10,9 @@ In order to complete this project, we will need two major sources of data:
 In a future version, a third dataset would be useful for New York users:
 
 3. The NYC Open Data webpage contains a listing of restaurant grades given by the city. This could be used to select restaurants with a minimum grade score.
+
+Example of user data:
+
+User: James
+Likes: Taco House 39, Chen's Garden, Pho Viet
+Dislikes: Pizza Hut, La Sorrentina
