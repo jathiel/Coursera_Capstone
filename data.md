@@ -14,5 +14,7 @@ In a future version, a third dataset would be useful for New York users:
 Example of user data:
 
 User: James
+
 Likes: Taco House 39, Chen's Garden, Pho Viet
+
 Dislikes: Pizza Hut, La Sorrentina
