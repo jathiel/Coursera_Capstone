@@ -1,7 +1,7 @@
 Introduction/Business Problem
 -----------------------------
 
-The goal of this project is to solve the problem of deciding where a group of people should go eat together. Frequently coworkers and friends wish to eat together, but must make a decision as to where. In order to speed up the process and lower the probability of an argument, we will automate this decision process.
+The goal of this project is to solve the problem of deciding where a group of people should go eat together. Frequently coworkers and friends wish to eat together, but must make a decision as to where. In order to speed up the process and lower the probability of an argument, we will automate this decision process. The target audience is any individual interested in engaging in the social activity of eating in a large group, whether for pleasure, work, or both. Selecting a dining establishment that can accomodate several individuals' choices at once with minimal friction should be of interest to the average individual in general.
 
 We will make the following assumptions for the purposes of simplifying this project:
 
@@ -16,3 +16,4 @@ We will make the following assumptions for the purposes of simplifying this proj
 5. After ordering the list by rank, a random suggestion will be taken by one of the top 8 spots. A random selection will be used to avoid always returning the same restaurant for the same group of people.
 
 In a future version, users should be able to create more complicated profiles, perhaps describing their preferences based on type of cuisine, how much they like/dislike a restaurant (a ranking from -5 to 5, say), past attendance (in case a user has already attended a restaurant in the past week), restaurant grade (in New York) or rating, etc. 
+
