@@ -1,15 +1,15 @@
 Introduction/Business Problem
 -----------------------------
 
-<u>Problem</u> 
+Problem
 
 The goal of this project is to solve the problem of deciding where a group of people should go eat together. Frequently coworkers and friends wish to eat together, but must make a decision as to where. In order to speed up the process and lower the probability of an argument, we will automate this decision process via a recommendation based on individual preferences using Foursquare data. 
 
-<u>Target Audience</u>
+Target Audience
 
 The target audience is any individual interested in engaging in the social activity of eating in a large group, whether for pleasure, work, or both. Selecting a dining establishment that can accomodate several individuals' choices at once with minimal friction should be of interest to the average individual in general.
 
-<u>Further Information and Future Plans</u>
+Further Information and Future Plans
 
 We will make the following assumptions for the purposes of simplifying this project:
 
